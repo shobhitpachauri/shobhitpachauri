@@ -24,7 +24,7 @@ I'm diving deeper into **NLP** and **deep learning**, working on creating innova
 
 ### 📫 How to Reach Me
 Feel free to connect with me for collaborations, discussions, or just to share ideas:
-- **Email:** shobhit.pachauri@example.com
+- **Email:** shobhit.pachauri@utdallas.edu
 - **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhitpachauri)
 - **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)
 
