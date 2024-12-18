@@ -1,31 +1,52 @@
-# 👋 Hi, I’m Shobhit Pachauri
+# 👋 Hi, I’m Shobhit Pachauri  
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a passionate **Data Scientist, Researcher, and Developer**, currently pursuing my Master of Science in Business Analytics and Artificial Intelligence at **The University of Texas at Dallas**. My academic and professional journey is driven by curiosity and a deep interest in leveraging technology to solve complex problems.
+I am a **Data Scientist, Researcher, and Developer**, pursuing my Master of Science in Business Analytics and Artificial Intelligence at **The University of Texas at Dallas**. My passion lies in solving complex problems using technology, especially in the realms of **AI**, **machine learning**, and **data science**.  
 
-### 🌌 Research and Projects
-- **Astrophysics Research:** Worked on cutting-edge projects such as the **Cosmic Lyman-alpha Transfer (COLT)** code and the **THESAN simulation suite**, focusing on radiative transfer and galaxy formation. Collaborated with leading institutions like **NASA, MIT, and Harvard**, utilizing **Python** and **C++** for large-scale simulations and data analysis.
-- **Near-Earth Objects (NEO) Project:** Developed a robust pipeline for analyzing celestial objects, applying **machine learning (ML)** to process and interpret complex datasets.
-- **Front-End and Back-End Development:** Skilled in creating dynamic user interfaces with **React** and scalable back-end solutions using **Flask**.
+---
 
-### 🧠 Skills
-- **Machine Learning & Deep Learning:** Expertise in neural networks, **natural language processing (NLP)**, and building predictive models with **PyTorch** and **TensorFlow**.
-- **Programming Languages:** Proficient in **Python**, **C++**, and **JavaScript**.
-- **Data Science:** Adept at data wrangling, visualization, and deriving actionable insights from large datasets.
-- **Web Development:** Experienced in crafting responsive front-end designs and developing efficient back-end architectures.
+### 🌌 Research and Projects  
 
-### 🎸 Fun Facts
-- A passionate guitarist who loves blending music with creativity.
-- An avid boxer, embracing discipline and focus both in and out of the ring.
+#### **Astrophysics Research**  
+- Contributed to high-impact projects like **COLT (Cosmic Lyman-alpha Transfer)** and **THESAN**, focusing on galaxy structure simulations and radiative transfer.  
+- Collaborated with **NASA, MIT, and Harvard** to develop scalable **Monte Carlo Radiative Transfer (MCRT)** models using **Python** and **C++**, exploring phenomena like galaxy formation and the epoch of reionization.  
+- This work enhanced my expertise in **high-performance computing**, data pipelines, and scientific simulations, deepening my curiosity about AI-driven cosmic exploration.  
 
-### 🌱 Current Focus
-I'm diving deeper into **NLP** and **deep learning**, working on creating innovative solutions with **state-of-the-art AI models**.
+#### **NLP and AI Text Generation**  
+- Leveraged models like **RoBERTa**, **LLaMA**, and **QWEN** for tasks such as emotion detection, text summarization, and sentiment analysis.  
+- Worked on fine-tuned **transformer architectures**, optimizing model performance for resource-constrained environments.  
+- Built pipelines for customized low-resource NLP solutions with a focus on usability and accuracy.  
 
-### 📫 How to Reach Me
-Feel free to connect with me for collaborations, discussions, or just to share ideas:
-- **Email:** shobhit.pachauri@utdallas.edu
-- **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhit-pachauri-a6b602165/)
-- **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)
+#### **HackUTD - DataEclipseAI**  
+- Developed **DataEclipseAI**, a full-stack app for managing data lifecycles.  
+- Used **Flask** (backend) and **Streamlit** (frontend) with advanced ML models for predictive analytics and automated preprocessing.  
+- Over 36 hours, tackled real-world challenges like scalable data flows and model refinement, reinforcing my passion for end-to-end software solutions.  
 
-✨ Let's collaborate and create impactful solutions together!
+---
+
+### 🧠 Skills  
+- **Machine Learning & NLP:** Expertise in **neural networks**, predictive models, and frameworks like **PyTorch** and **TensorFlow**.  
+- **Programming Languages:** Proficient in **Python**, **C++**, and **JavaScript**.  
+- **Web Development:** Skilled in building responsive UIs and scalable backends using tools like **React** and **Flask**.  
+- **Data Science:** Adept at data preprocessing, visualization, and extracting actionable insights from large datasets.  
+
+---
+
+### 🎸 Fun Facts  
+- A guitarist who blends creativity with music.  
+- An avid boxer, embracing discipline and resilience.  
+
+---
+
+### 🌱 Current Focus  
+Exploring **NLP**, **deep learning**, and scalable AI solutions to create impactful real-world applications.  
+
+---
+
+### 📫 Connect with Me  
+- **Email:** shobhit.pachauri@utdallas.edu  
+- **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhit-pachauri-a6b602165/)  
+- **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)  
+
+✨ Let’s innovate together!
