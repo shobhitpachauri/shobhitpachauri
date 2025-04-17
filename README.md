@@ -1,52 +1,73 @@
-# 👋 Hi, I’m Shobhit Pachauri  
+# 👋 Hi, I’m Shobhit Pachauri
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I am a **Data Scientist, Researcher, and Developer**, pursuing my Master of Science in Business Analytics and Artificial Intelligence at **The University of Texas at Dallas**. My passion lies in solving complex problems using technology, especially in the realms of **AI**, **machine learning**, and **data science**.  
+I’m a **Data Scientist and Product Analyst in the making**, currently completing my **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. With a foundation in **data science, machine learning, and product analytics**, I thrive on turning data into real-world impact.
 
----
-
-### 🌌 Research and Projects  
-
-#### **Astrophysics Research**  
-- Contributed to high-impact projects like **COLT (Cosmic Lyman-alpha Transfer)** and **THESAN**, focusing on galaxy structure simulations and radiative transfer.  
-- Collaborated with **NASA, MIT, and Harvard** to develop scalable **Monte Carlo Radiative Transfer (MCRT)** models using **Python** and **C++**, exploring phenomena like galaxy formation and the epoch of reionization.  
-- This work enhanced my expertise in **high-performance computing**, data pipelines, and scientific simulations, deepening my curiosity about AI-driven cosmic exploration.  
-
-#### **NLP and AI Text Generation**  
-- Leveraged models like **RoBERTa**, **LLaMA**, and **QWEN** for tasks such as emotion detection, text summarization, and sentiment analysis.  
-- Worked on fine-tuned **transformer architectures**, optimizing model performance for resource-constrained environments.  
-- Built pipelines for customized low-resource NLP solutions with a focus on usability and accuracy.  
-
-#### **HackUTD - DataEclipseAI**  
-- Developed **DataEclipseAI**, a full-stack app for managing data lifecycles.  
-- Used **Flask** (backend) and **Streamlit** (frontend) with advanced ML models for predictive analytics and automated preprocessing.  
-- Over 36 hours, tackled real-world challenges like scalable data flows and model refinement, reinforcing my passion for end-to-end software solutions.  
+My journey spans **AI research, full-stack development, and applied analytics**, driven by a curiosity to build scalable, intelligent systems that solve real business problems.
 
 ---
 
-### 🧠 Skills  
-- **Machine Learning & NLP:** Expertise in **neural networks**, predictive models, and frameworks like **PyTorch** and **TensorFlow**.  
-- **Programming Languages:** Proficient in **Python**, **C++**, and **JavaScript**.  
-- **Web Development:** Skilled in building responsive UIs and scalable backends using tools like **React** and **Flask**.  
-- **Data Science:** Adept at data preprocessing, visualization, and extracting actionable insights from large datasets.  
+## 🔧 Projects & Experience
+
+### 🛰️ **Astrophysics Research – NASA, Harvard, MIT**
+- Contributed to **COLT** and **THESAN** projects, developing scalable **Monte Carlo Radiative Transfer (MCRT)** models in **Python** and **C++**.
+- Simulated early-universe phenomena like **galaxy formation** and **cosmic reionization**, sharpening my high-performance computing and simulation skills.
+
+### 💬 **UT Dallas Chatbot – LangChain + FAISS**
+- Designed and deployed a campus chatbot using **LangChain**, **FAISS vector databases**, and **LLMs**, enabling intelligent semantic search on custom PDFs.
+- Built for student-facing use cases like admissions and FAQs, demonstrating practical applications of **RAG pipelines** and **prompt engineering**.
+
+### 📊 **Credit Default Risk Modeling – American Express Dataset**
+- Applied **XGBoost**, **Neural Networks**, and **OLS Regression** to predict credit default risks.
+- Focused on **model interpretability**, **feature engineering**, and comparative model performance across techniques.
+
+### 🧠 **Sentiment Analysis on Tweets (RoBERTa, BERT, LLaMA)**
+- Built NLP models to detect sentiment, emotion, and mental health signals from social media data.
+- Fine-tuned transformer models for low-resource environments and improved pipeline efficiency.
+
+### 🛠️ **HackUTD: DataEclipseAI**
+- Created a full-stack ML platform for end-to-end data lifecycle management using **Flask**, **Streamlit**, and **automated preprocessing modules**.
+- Tackled challenges like model integration, data cleaning automation, and dashboarding.
 
 ---
 
-### 🎸 Fun Facts  
-- A guitarist who blends creativity with music.  
-- An avid boxer, embracing discipline and resilience.  
+## 💼 Target Roles
+Actively seeking roles in:
+- **Product Analytics**
+- **Business/Data Analytics**
+- **Machine Learning & AI Applications**
 
 ---
 
-### 🌱 Current Focus  
-Exploring **NLP**, **deep learning**, and scalable AI solutions to create impactful real-world applications.  
+## 🧠 Core Skills
+- **Languages:** Python, SQL, C++, JavaScript  
+- **Frameworks & Tools:** PyTorch, Scikit-learn, Hugging Face, TensorFlow, LangChain, FAISS  
+- **Data & ML:** Data Cleaning, Feature Engineering, Regression, Classification, Clustering, XGBoost, NLP  
+- **Product & BI:** SQL, Tableau, Power BI, A/B Testing, Product Metrics  
+- **Full Stack:** Flask, Streamlit, React (Basics), REST APIs  
+- **Cloud & Dev Tools:** Azure ML, Git, VS Code, Jupyter  
 
 ---
 
-### 📫 Connect with Me  
-- **Email:** shobhit.pachauri@utdallas.edu  
-- **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhit-pachauri-a6b602165/)  
-- **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)  
+## 🎸 Fun Facts
+- Passionate black metal guitarist and composer 🎸  
+- Amateur boxer with a love for discipline, intensity, and personal growth 🥊
 
-✨ Let’s innovate together!
+---
+
+## 🌱 Current Focus
+- Building intelligent, **AI-powered products** using NLP and generative models  
+- Deep-diving into **Product Analytics**, A/B Testing, and user behavior modeling  
+- Exploring **LLMs**, **RAG pipelines**, and **domain-specific chatbots**  
+
+---
+
+## 📫 Connect with Me  
+📧 **Email:** shobhit.pachauri@utdallas.edu  
+🔗 **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhit-pachauri-a6b602165/)  
+💻 **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)  
+
+✨ Let’s connect, collaborate, and build something impactful!
+
+---
