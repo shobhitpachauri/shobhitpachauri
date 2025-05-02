@@ -5,12 +5,13 @@
 I’m a **Data Scientist and Product Analyst in the making**, currently completing my **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. With a foundation in **data science, machine learning, and product analytics**, I thrive on turning data into real-world impact.
 
 Amazon Experience – Story
-"At Amazon, I was part of the Advertising team where I worked closely with digital campaigns for some of the biggest global brands. Although my title was Senior Content Reviewer, my day-to-day responsibilities were quite analytical and strategic.
-What made the role interesting was how cross-functional it was. I wasn’t just checking for violations; I was collaborating with different stakeholders to improve ad effectiveness. I used SQL and Excel a lot to analyze ad performance and report on trends. SQL was to work on data wrangling, preparation, cleaning etc. 
-I worked on improving CPC [Cost-Per-Click, a key performance metric that indicates how much an advertiser pays per user click on an ad]. To do this, I experimented with different types of keywords and ad placements to see what performed better.
-To validate what worked best, I used A/B testing [a method of comparing two variations to see which one performs better based on a specific metric]. So, we tested different versions of ad layouts, messaging, or placements to understand what resonated more with users. 
-Another key part of that project was building dashboards that told a story. Instead of just giving raw data, I focused on how to translate insights into something leadership could act on.
----
+**
+-"At Amazon, I was part of the Advertising team where I worked closely with digital campaigns for some of the biggest global brands. Although my title was Senior Content Reviewer, my day-to-day responsibilities were quite analytical and strategic.
+-What made the role interesting was how cross-functional it was. I wasn’t just checking for violations; I was collaborating with different stakeholders to improve ad effectiveness. I used SQL and Excel a lot to analyze ad performance and report on trends. SQL was to work on data wrangling, preparation, cleaning etc. 
+-I worked on improving CPC [Cost-Per-Click, a key performance metric that indicates how much an advertiser pays per user click on an ad]. To do this, I experimented with different types of keywords and ad placements to see what performed better.
+-To validate what worked best, I used A/B testing [a method of comparing two variations to see which one performs better based on a specific metric]. So, we tested different versions of ad layouts, messaging, or placements to understand what resonated more with users. 
+-Another key part of that project was building dashboards that told a story. Instead of just giving raw data, I focused on how to translate insights into something leadership could act on.
+---**
 
 ## 🔧 Projects & Experience
 
