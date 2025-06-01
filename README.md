@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m a **Your AI guy, Data Scientist and Product Analyst in the making**, with a **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. I thrive on building data-driven solutions that blend business thinking with machine learning, and I love working at the intersection of **AI, product, and storytelling**.
+**Your AI guy, Data Scientist and Product Analyst in the making**, with a **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. I thrive on building data-driven solutions that blend business thinking with machine learning, and I love working at the intersection of **AI, product, and storytelling**.
 
 ### 📍 What drives me?
 Helping organizations transform with **AI-first products**, actionable insights, and scalable analytics. I enjoy simplifying complex problems—be it through predictive models, intuitive dashboards, or LLM-powered chatbots.
