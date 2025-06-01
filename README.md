@@ -2,77 +2,118 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist and Product Analyst in the making**, currently completing my **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. With a foundation in **data science, machine learning, and product analytics**, I thrive on turning data into real-world impact.
+I’m a **Your AI guy, Data Scientist and Product Analyst in the making**, with a **Master’s in Business Analytics & Artificial Intelligence** at **The University of Texas at Dallas**. I thrive on building data-driven solutions that blend business thinking with machine learning, and I love working at the intersection of **AI, product, and storytelling**.
 
-Amazon Experience – Story
-**
--"At Amazon, I was part of the Advertising team where I worked closely with digital campaigns for some of the biggest global brands. Although my title was Senior Content Reviewer, my day-to-day responsibilities were quite analytical and strategic.
--What made the role interesting was how cross-functional it was. I wasn’t just checking for violations; I was collaborating with different stakeholders to improve ad effectiveness. I used SQL and Excel a lot to analyze ad performance and report on trends. SQL was to work on data wrangling, preparation, cleaning etc. 
--I worked on improving CPC [Cost-Per-Click, a key performance metric that indicates how much an advertiser pays per user click on an ad]. To do this, I experimented with different types of keywords and ad placements to see what performed better.
--To validate what worked best, I used A/B testing [a method of comparing two variations to see which one performs better based on a specific metric]. So, we tested different versions of ad layouts, messaging, or placements to understand what resonated more with users. 
--Another key part of that project was building dashboards that told a story. Instead of just giving raw data, I focused on how to translate insights into something leadership could act on.
----**
+### 📍 What drives me?
+Helping organizations transform with **AI-first products**, actionable insights, and scalable analytics. I enjoy simplifying complex problems—be it through predictive models, intuitive dashboards, or LLM-powered chatbots.
 
-## 🔧 Projects & Experience
+---
 
-### 🛰️ **Astrophysics Research – NASA, Harvard, MIT**
-- Contributed to **COLT** and **THESAN** projects, developing scalable **Monte Carlo Radiative Transfer (MCRT)** models in **Python** and **C++**.
-- Simulated early-universe phenomena like **galaxy formation** and **cosmic reionization**, sharpening my high-performance computing and simulation skills.
+## 💼 Experience Highlights
 
-### 💬 **UT Dallas Chatbot – LangChain + FAISS**
-- Designed and deployed a campus chatbot using **LangChain**, **FAISS vector databases**, and **LLMs**, enabling intelligent semantic search on custom PDFs.
-- Built for student-facing use cases like admissions and FAQs, demonstrating practical applications of **RAG pipelines** and **prompt engineering**.
+### 🛒 Amazon Advertising — *Sr. Content Analyst (Analytics & Optimization)*
+- Led **ad performance analysis** for top global brands using **SQL** and **Excel**, optimizing **CPC** and improving campaign targeting strategies.
+- Designed **A/B tests** to experiment with keywords, placements, and messaging for better ROI.
+- Developed **dashboards** and reporting tools for cross-functional leadership to drive strategic ad decisions.
+
+### 🧠Transformation Office — *AI/Analytics Projects*
+- Worked on **portfolio analytics** and KPI storytelling using Power BI & Tableau.
+- Drove AI-readiness initiatives by building tooling to automate data tasks and process pipelines.
+- Collaborated cross-functionally on **strategic transformation programs** involving business units, IT, and marketing.
+
+### 💬 FATIMA Chatbot – LangChain + Snowflake Cortex + FAISS
+- Built an enterprise-grade chatbot integrating **LangChain**, **FAISS**, **Snowflake Cortex**, and **LLM prompt engineering**.
+- Delivered **semantic PDF search** capabilities, used for internal business knowledge retrieval.
+- Deployed using modular architecture with RBAC-secured Snowflake backend.
+
+---
+
+## 🛰️ Research & Technical Projects
+
+### 🚀 **NEO Astrophysics Simulations – NASA, Harvard, MIT**
+- Collaborated on **THESAN** & **COLT** projects simulating early-universe phenomena using **Monte Carlo Radiative Transfer (MCRT)** in **Python & C++**.
+- Focused on high-performance computing, simulation scalability, and model optimization.
 
 ### 📊 **Credit Default Risk Modeling – American Express Dataset**
-- Applied **XGBoost**, **Neural Networks**, and **OLS Regression** to predict credit default risks.
-- Focused on **model interpretability**, **feature engineering**, and comparative model performance across techniques.
+- Trained and compared **XGBoost, Neural Nets**, and **OLS Regression** models for risk prediction.
+- Prioritized **feature interpretability** and **business explainability** in model deployment.
 
-### 🧠 **Sentiment Analysis on Tweets (RoBERTa, BERT, LLaMA)**
-- Built NLP models to detect sentiment, emotion, and mental health signals from social media data.
-- Fine-tuned transformer models for low-resource environments and improved pipeline efficiency.
+### 🧠 **NLP Sentiment & Emotion Classifier**
+- Fine-tuned **RoBERTa, BERT, and LLaMA** models on Twitter data to detect emotion and mental health patterns.
+- Built lightweight, high-accuracy inference pipelines for resource-constrained settings.
 
 ### 🛠️ **HackUTD: DataEclipseAI**
-- Created a full-stack ML platform for end-to-end data lifecycle management using **Flask**, **Streamlit**, and **automated preprocessing modules**.
-- Tackled challenges like model integration, data cleaning automation, and dashboarding.
+- Developed a full-stack ML platform with **Flask, Streamlit**, and automated preprocessing.
+- Built dynamic dashboards and modular data science workflows.
 
 ---
 
-## 💼 Target Roles
-Actively seeking roles in:
-- **Product Analytics**
-- **Business/Data Analytics**
-- **Machine Learning & AI Applications**
+## 📜 Certifications
 
+🎓 **Snowflake SnowPro Associate – Platform (SOL-C01)**  
+✅ Validated core expertise in:
+- Snowflake AI Data Cloud & Architecture  
+- Identity and Access Management (RBAC, roles, schema ownership)  
+- Data Loading, COPY INTO, and #Snowsight  
+- **Cortex LLM Functions**: `PARSE_DOCUMENT`, `CLASSIFY_TEXT`, `COMPLETE`  
+- Secure Data Sharing, Time Travel, and Cloning
+
+📈 **Business Decision Analytics – The University of Texas at Dallas**  
+- Focused on data-driven strategy, experimentation (A/B testing), and KPIs for business decision-making.
+
+🤖 **Applied Machine Learning – The University of Texas at Dallas**  
+- Trained on supervised, unsupervised, and deep learning models using real-world datasets and production-ready workflows.
+- 
 ---
-
 ## 🧠 Core Skills
-- **Languages:** Python, SQL, C++, JavaScript  
-- **Frameworks & Tools:** PyTorch, Scikit-learn, Hugging Face, TensorFlow, LangChain, FAISS  
-- **Data & ML:** Data Cleaning, Feature Engineering, Regression, Classification, Clustering, XGBoost, NLP  
-- **Product & BI:** SQL, Tableau, Power BI, A/B Testing, Product Metrics  
-- **Full Stack:** Flask, Streamlit, React (Basics), REST APIs  
-- **Cloud & Dev Tools:** Azure ML, Git, VS Code, Jupyter  
+
+**Programming Languages:**  
+- SQL, Python (Pandas, NumPy, OOPs), R  
+
+**Analytics & BI Tools:**  
+- Power BI, Tableau, Excel (Solver, Linear Programming, Sensitivity Analysis), JIRA  
+
+**Machine Learning & Modeling:**  
+- Regression (Linear, Logistic, OLS), Classification, Clustering  
+- Predictive & Prescriptive Analytics, A/B Testing, Hypothesis Testing  
+- Time Series Forecasting, PyTorch, Scikit-learn  
+
+**AI & NLP:**  
+- Natural Language Processing (NLP), Transformers, Hugging Face  
+- LangChain, FAISS, RAG pipelines, LLM-based chatbot development  
+- Sentiment & Emotion Analysis, Document AI (Snowflake Cortex LLM functions)
+
+**Product & Data Analytics:**  
+- Experiment Design, SQL Storytelling, Dashboarding  
+- Data Preparation, Feature Engineering, Model Interpretability  
+
+**Cloud & Dev Tools:**  
+- Snowflake, Azure ML, Git, VS Code, Jupyter, REST APIs  
+
+
+## 🌱 What I’m Exploring Now
+
+- **RAG Pipelines** & domain-specific chatbots  
+- **AI for Product Optimization** & Transformation  
+- **LLMs + BI** for intelligent dashboards  
+- Advanced **data security and sharing** with Snowflake  
 
 ---
 
-## 🎸 Fun Facts
-- Passionate black metal guitarist and composer 🎸  
-- Amateur boxer with a love for discipline, intensity, and personal growth 🥊
+## 🎸 Outside the Console
+
+- 🎸 Black metal guitarist and songwriter  
+- 🥊 Boxer and fitness enthusiast  
+- 📢 Volunteer & mentor, passionate about mental health and community impact  
 
 ---
 
-## 🌱 Current Focus
-- Building intelligent, **AI-powered products** using NLP and generative models  
-- Deep-diving into **Product Analytics**, A/B Testing, and user behavior modeling  
-- Exploring **LLMs**, **RAG pipelines**, and **domain-specific chatbots**  
+## 📫 Let’s Connect
 
----
+- 📧 **Email:** shobhit.pachauri@utdallas.edu  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/shobhitpachauri)  
+- 💻 [**GitHub**](https://github.com/shobhitpachauri)  
 
-## 📫 Connect with Me  
-📧 **Email:** shobhit.pachauri@utdallas.edu  
-🔗 **LinkedIn:** [linkedin.com/in/shobhitpachauri](https://www.linkedin.com/in/shobhit-pachauri-a6b602165/)  
-💻 **GitHub:** [github.com/shobhitpachauri](https://github.com/shobhitpachauri)  
-
-✨ Let’s connect, collaborate, and build something impactful!
+Let’s build something impactful together! 🚀
 
 ---
